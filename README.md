@@ -1,1 +1,1 @@
-#curl V.7.64.0 for PellesC---------------------This is a simplified port of curl for PellesC with projects for 32bits and 64bits built with  Windows **Security Support Provider Interface** (**SSPI**).
+# curl V.7.64.0 for PellesC-----------------------------This is a simplified port of curl for PellesC with projects for 32bits and 64bits built with  Windows **Security Support Provider Interface** (**SSPI**).
